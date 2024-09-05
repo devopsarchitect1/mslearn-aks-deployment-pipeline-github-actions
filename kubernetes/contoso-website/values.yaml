@@ -1,0 +1,7 @@
+image:
+  registry: <ACR-NAME>
+  name: contoso-website
+  tag: latest
+
+dns:
+  name: <DNS-NAME>
